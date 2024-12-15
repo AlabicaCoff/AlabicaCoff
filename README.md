@@ -31,6 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" alt="embedded-c" width="45" height="45"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlabicaCoff)](https://github.com/AlabicaCoff/github-readme-stats)
+
 ![Snake animation](https://github.com/AlabicaCoff/AlabicaCoff/blob/output/github-contribution-grid-snake.svg)
 
 <!---
