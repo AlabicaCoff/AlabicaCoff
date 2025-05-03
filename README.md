@@ -90,8 +90,8 @@
 
 ## 📶 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AlabicaCoff" height="200" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&count_private=true&layout=compact&card_width=320&langs_count=5&theme=dracula&exclude_repo=stm32f7-GuitarEffectsPedal,ESP8266__door_lock,Introduction-to-Computer-Engineering,TetrisFPGA&hide_border=false&username=AlabicaCoff" height="200" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AlabicaCoff" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&count_private=true&layout=compact&card_width=320&langs_count=5&theme=dracula&exclude_repo=stm32f7-GuitarEffectsPedal,ESP8266__door_lock,Introduction-to-Computer-Engineering,TetrisFPGA&hide_border=false&username=AlabicaCoff" height="150" alt="languages graph"/>
   <img src="https://github.com/AlabicaCoff/AlabicaCoff/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
