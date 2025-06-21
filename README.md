@@ -1,7 +1,7 @@
 # 👋 Hi there! Welcome to My AlabicaCoff World ☕
 
 - 🙋🏻‍♂️ My name is Thanathat Pinthu, People usually call me March.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and AI Automation.
 - 🧸 My hobby is watching Anime and reading Manga.
 - 🌱 I’m currently studying Computer Engineering.
 - ❤️ Nice to meet you all.
@@ -77,12 +77,12 @@
       <h3>⚙️ Others</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
+        <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-shopping-bag-full-color-66166b2e55d67988b56b4bd28b63c271e2b9713358cb723070a92bde17ad7d63.svg" width="50"/>
         <img src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-vector-1.svg" width="50"/>
         <img src="https://m.media-amazon.com/images/I/41yQQYkOtaL.png" width="50"/>
         <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="50"/>
         <img src="https://companieslogo.com/img/orig/XLNX-e61d7a44.png?t=1720244494" width="50"/>
-        <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-shopping-bag-full-color-66166b2e55d67988b56b4bd28b63c271e2b9713358cb723070a92bde17ad7d63.svg" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="50"/>
+        <img src="https://packet-tracer-win.com/images/uploads/2023-12-29/icon-block-doaqi.png" width="50"/>
       </p>
       <br/>
     </td>
