@@ -3,7 +3,7 @@
 - 🙋🏻‍♂️ My name is Thanathat Pinthu, People usually call me March.
 - 👀 I’m interested in Web Development and AI Automation.
 - 🧸 My hobby is watching Anime and reading Manga.
-- 🌱 I’m currently studying Computer Engineering.
+- 🌱 I’m currently studying Computer Engineering at KMITL.
 - ❤️ Nice to meet you all.
 - 🌐 My Website: [alabicacoff.vercel.app](https://alabicacoff.vercel.app/)
 
