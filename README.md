@@ -5,7 +5,7 @@
 - 🧸 My hobby is watching Anime and reading Manga.
 - 🌱 I’m currently studying Computer Engineering.
 - ❤️ Nice to meet you all.
-- 🌐 My Website: [https://alabicacoff.vercel.app/](https://alabicacoff.vercel.app/)
+- 🌐 My Website: [alabicacoff.vercel.app](https://alabicacoff.vercel.app/)
 
 ## 🚀 Tech Stack and Tools
 <table align="center">
