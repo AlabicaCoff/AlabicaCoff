@@ -74,22 +74,20 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50"/>
       </p>
       <br/>
     </td>
     <td valign="top" align="center" width="33%">
       <h3>🛠️ Others</h3>
       <p>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50" height="50"/>
         <img src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-vector-1.svg" width="50" height="50"/>
-        <img src="https://m.media-amazon.com/images/I/41yQQYkOtaL.png" width="50" height="50"/>
         <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="50" height="50"/>
-        <img src="https://companieslogo.com/img/orig/XLNX-e61d7a44.png?t=1720244494" width="50" height="50"/>
-        <img src="https://packet-tracer-win.com/images/uploads/2023-12-29/icon-block-doaqi.png" width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png" width="50" height="50"/>
       </p>
       <br/>
     </td>
