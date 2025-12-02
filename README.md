@@ -1,8 +1,8 @@
 # 👋 Hi there! Welcome to My AlabicaCoff World ☕
 
-- 🙋🏻‍♂️ My name is Thanathat Pinthu, People usually call me March.
-- 👀 I’m interested in Web Development, DevOps and AI Automation.
-- 🌱 I’m currently studying Computer Engineering at KMITL.
+- 🙋🏻‍♂️ My name is **Thanathat Pinthu**, People usually call me **March**.
+- 👀 I’m interested in **Web Development**, **DevOps**, **Data**, and **AI Automation**.
+- 🌱 I’m currently studying **Computer Engineering** at ${\color{orange}KMITL}$.
 - ❤️ Nice to meet you all.
 - 🌐 My Website: [alabicacoff.vercel.app](https://alabicacoff.vercel.app/)
 
@@ -84,6 +84,7 @@
       <h3>🛠️ Others</h3>
       <p>
         <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png" width="50" height="50"/>
+        <img src="https://cdn.hub.central.dynatrace.com/hub/console/drafts/45/logo/agent-development-kit-icon.png" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50" height="50"/>
         <img src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-vector-1.svg" width="50" height="50"/>
@@ -96,8 +97,8 @@
 
 ## 📶 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AlabicaCoff" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&count_private=true&layout=compact&card_width=320&langs_count=5&theme=dracula&exclude_repo=stm32f7-GuitarEffectsPedal,ESP8266__door_lock,Introduction-to-Computer-Engineering,TetrisFPGA&hide_border=false&username=AlabicaCoff" height="150" alt="languages graph"/>
+  <img src="https://alabicacoff-github-readme-stats.vercel.app/api?&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AlabicaCoff" height="150" alt="stats graph"/>
+  <img src="https://alabicacoff-github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&count_private=true&layout=compact&card_width=320&langs_count=5&theme=dracula&exclude_repo=stm32f7-GuitarEffectsPedal,ESP8266__door_lock,Introduction-to-Computer-Engineering,TetrisFPGA&hide_border=false&username=AlabicaCoff" height="150" alt="languages graph"/>
   <img src="https://github.com/AlabicaCoff/AlabicaCoff/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
