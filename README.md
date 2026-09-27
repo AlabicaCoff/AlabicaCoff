@@ -12,9 +12,9 @@
     <td valign="top" align="center" width="33%">
       <h3>🔢 Programming</h3>
       <p>
-        <img src="https://icongr.am/devicon/c-original.svg?size=128&color=ffffff" width="50" height="50"/>
-        <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="50" height="50"/>
-        <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="50" height="50"/>
+        <img src="https://icon.icepanel.io/Technology/svg/C.svg?size=128&color=ffffff" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -41,7 +41,7 @@
     <td valign="top" align="center" width="33%">
       <h3>🖧 Backend</h3>
       <p>
-        <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=55d411" width="50" height="50"/>
+        <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg?size=128&color=55d411" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
