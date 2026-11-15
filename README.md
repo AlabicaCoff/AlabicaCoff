@@ -1,9 +1,10 @@
 # 👋 Hi there! Welcome to My AlabicaCoff World ☕
 
-- 🙋🏻‍♂️ My name is **Thanathat Pinthu**, People usually call me **March**.
-- 👀 I’m interested in **Web Development**, **DevOps**, **Data**, and **AI Automation**.
-- 🌱 I’m currently studying **Computer Engineering** at ${\color{orange}KMITL}$.
-- ❤️ Nice to meet you all.
+- 🙋🏻‍♂️ My name is **Thanathat Pinthu**, and people usually call me **March**.
+- 👀 I’m interested in **Web Development**, **DevOps**, and **AI Automation**.
+- 🌱 I recently graduated with a degree in **Computer Engineering** from ${\color{orange}KMITL}$.
+- 👨🏻‍💻 I currently work as a **Software Engineer** at **Ngernturbo PCL**.
+- ❤️ Nice to meet you all!
 - 🌐 My Website: [alabicacoff.vercel.app](https://alabicacoff.vercel.app/)
 
 ## 🚀 Tech Stack and Tools
@@ -77,7 +78,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg" width="50" height="50"/>
       </p>
       <br/>
     </td>
